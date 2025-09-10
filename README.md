@@ -1,4 +1,4 @@
-# t-d-apis
+# T&D API's
 
 ## 📌 Contexto
 Este repositório faz parte de uma **atividade de treinamento e desenvolvimento** da equipe, com o objetivo de praticar **ingestão, tratamento e análise de dados meteorológicos** utilizando **PySpark** e a **arquitetura de medalhão** (Bronze, Silver, Gold).
